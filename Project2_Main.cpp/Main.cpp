@@ -34,9 +34,14 @@ Passing on the book has the following outcome:
 */
 
 using namespace std;
+#include <iostream>
+
 
 void main()
 {
+	cout << "test";
 
 
+
+	system("pause");
 };
