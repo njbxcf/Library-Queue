@@ -13,10 +13,6 @@ should be prioritized based on two factors: (1) the total waiting time for the e
 many days the employee waited to get a book since the beginning of the circulation. (2) The
 total retaining time: How many days the employee retained books.
 
-Make a data structure (priority queue) that allows the pushing and popping of
-items. The popped item is the item with the highest priority. The queue should also be
-updatable whenever an item’s priority changes.
-
 The more the employee waited, the higher the priority. The more she retained a book, the lower
 the priority. To put it simply, the priority is: waiting_time – retaining_time.
 The employee in front of the queue gets the book

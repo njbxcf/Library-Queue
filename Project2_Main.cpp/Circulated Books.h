@@ -1,7 +1,8 @@
 /*this will be a list for books in circualtion. it will add books when they go into circulation and delete when they are moved to archived. 
 The archived or circulated status will be kept by a boolean value. This will not need a cpp*/
 
-//#include <cstddef>
+#include <cstddef>
+#include <list>
 class CirculatedBooks
 
 template <typename Item_Type>
