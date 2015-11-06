@@ -23,5 +23,14 @@
     <ClInclude Include="Queue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Circulated Books.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Archived Books.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
