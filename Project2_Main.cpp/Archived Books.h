@@ -3,7 +3,7 @@ This will not need a cpp*/
 
 
 	template <typename Item_Type>
-struct Archived {
+class Archived {
 	// Data Fields
 	/** The data */
 	Item_Type data;

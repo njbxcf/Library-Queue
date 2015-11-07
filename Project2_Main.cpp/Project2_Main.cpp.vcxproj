@@ -71,6 +71,8 @@
     <ClInclude Include="Archived Books.h" />
     <ClInclude Include="Circulated Books.h" />
     <ClInclude Include="employee.h" />
+    <ClInclude Include="Library.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="Queue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
