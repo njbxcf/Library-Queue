@@ -1,3 +1,11 @@
+/*
+Make a data structure(priority queue) that allows the pushing and popping of
+items.The popped item is the item with the highest priority.The queue should also be
+updatable whenever an item’s priority changes.
+
+the priority is: waiting_time – retaining_time
+*/
+
 #include <cstddef>
 
 template<typename Item_Type>
