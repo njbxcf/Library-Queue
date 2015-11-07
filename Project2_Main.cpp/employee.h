@@ -1,3 +1,31 @@
+<<<<<<< HEAD
+/*This will be a list of all of the employees. each employee.This will not need a cpp*/
+
+class employee{
+
+
+private:
+
+int waiting_time = 0;
+int retaining_time = 0;
+
+
+public:
+
+
+	void prioritize()
+	{
+
+
+
+
+
+
+	}
+
+
+};
+=======
 /*This will be a list of each employee.This will not need a cpp
 An employee has the following properties: name, waiting time, and retaining time.
 
@@ -43,3 +71,4 @@ struct Circulation {
 		data(data_item), next(next_ptr) {}
 };
 
+>>>>>>> refs/remotes/origin/master
